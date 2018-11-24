@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naltatis/jade-syntax-docs.git"
+    "url": "https://github.com/trasherdk/jade-syntax-docs.git"
   },
   "author": "naltatis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/naltatis/jade-syntax-docs/issues"
+    "url": "https://github.com/trasherdk/jade-syntax-docs/issues"
   },
   "homepage": "https://github.com/naltatis/jade-syntax-docs"
 }
